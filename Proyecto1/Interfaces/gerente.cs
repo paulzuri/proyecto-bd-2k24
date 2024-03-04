@@ -21,5 +21,30 @@ namespace Interfaces
         {
 
         }
+
+        private void menuReportes_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void submenureportecompras_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void submenureporteventas_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void menuMantenedor_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void gerente_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
